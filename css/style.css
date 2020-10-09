@@ -771,7 +771,7 @@ body {
 
 .totalsumnum.trxbalance:before {
     content: "\f681";
-    font-family: "Font Awesome 5 pro";
+    font-family: "Font Awesome 5 Free";
     font-weight: 200;
     font-size: 30px;
     position: absolute;
@@ -956,8 +956,8 @@ body {
 }
 
 .totalsumnum:before {
-    content: "\f4b9";
-    font-family: "Font Awesome 5 pro";
+    content: "\f51e";
+    font-family: "Font Awesome 5 Free";
     font-weight: 200;
     font-size: 30px;
     position: absolute;
@@ -967,8 +967,8 @@ body {
 }
 
 .totalsumblock .totalsumwrap .totalsumnum:last-child:before {
-    content: "\f4fc";
-    font-family: "Font Awesome 5 pro";
+    content: "\f51e";
+    font-family: "Font Awesome 5 Free";
     font-weight: 200;
     font-size: 30px;
     position: absolute;
@@ -1519,7 +1519,7 @@ body {
 
 .maincontbut.telegramlink:after {
     content: "\f1d8";
-    font-family: "Font Awesome 5 pro";
+    font-family: "Font Awesome 5 Free";
     font-weight: 600;
     position: absolute;
     top: calc(50% - 18px);
@@ -1533,7 +1533,7 @@ body {
 
 .maincontbut.supportlink:after {
     content: "\f82d";
-    font-family: "Font Awesome 5 pro";
+    font-family: "Font Awesome 5 Free";
     font-weight: 200;
     position: absolute;
     top: calc(50% - 19px);
@@ -1546,8 +1546,8 @@ body {
 }
 
 .maincontbut.maillink:after {
-    content: "\f658";
-    font-family: "Font Awesome 5 pro";
+    content: "\f51e";
+    font-family: "Font Awesome 5 Free";
     font-weight: 600;
     position: absolute;
     top: calc(50% - 19px);
@@ -1561,7 +1561,7 @@ body {
 
 .maincontbut.twitterlink:after {
     content: "\f4ba";
-    font-family: "Font Awesome 5 pro";
+    font-family: "Font Awesome 5 Free";
     font-weight: 600;
     position: absolute;
     top: calc(50% - 19px);
@@ -1575,7 +1575,7 @@ body {
 
 .maincontbut.youtubelink:after {
     content: "\f04b";
-    font-family: "Font Awesome 5 pro";
+    font-family: "Font Awesome 5 Free";
     font-weight: 600;
     position: absolute;
     top: calc(50% - 18px);
@@ -1589,7 +1589,7 @@ body {
 
 .maincontbut.discordlink:after {
     content: "\f8bc";
-    font-family: "Font Awesome 5 pro";
+    font-family: "Font Awesome 5 Free";
     font-weight: 600;
     position: absolute;
     top: calc(50% - 19px);
