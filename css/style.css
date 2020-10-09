@@ -55,7 +55,9 @@ body {
     letter-spacing: .4px;
     color: #fff
 }
-
+.hidden{
+    display:block;
+}
 .wrapper {
     width: 100%;
     max-width: 100vw;
