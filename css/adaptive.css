@@ -622,7 +622,7 @@ line-height:18px
 }
 
 .mainauditwrap .macblockline {
-border-top:5px solid #02ba96;
+border-top:5px solid #ff9933;
 border-left:none;
 margin:15px 0 20px
 }
@@ -1022,16 +1022,6 @@ font-size:25px;
 width:49px
 }
 
-.maincontbut.instagramlink::after {
-font-size:25px;
-width:46px
-}
-
-.maincontbut.discordlink::after {
-font-size:25px;
-width:50px
-}
-
 .maincontbut,.contlink:last-child .maincontbut {
 width:100%
 }
@@ -1141,62 +1131,53 @@ padding:10px 0 0
 }
 
 .socwrap i {
-font-size: 22px;
+    font-size: 22px;
 }
 .socwrap {
-position: relative;
-width: 50px;
-margin: 3px 0;
-height: 30px;
-line-height: 30px;
-padding-left: 4px;
+    position: relative;
+    width: 50px;
+    margin: 3px 0;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 4px;
 }
 .socblock {
-width: 30px;
+    width: 30px;
 }
 .socwrap:nth-last-of-type(2) i {
-margin: -3px 2px 0 3px
+    margin: -3px 1px 0;
+    font-size: 20px;
 }
 .socwrap:nth-last-of-type(1) i {
-margin: -2px 3px 0 !important;
-font-size: 20px;
+    margin: -2px 3px 0 !important;
+    font-size: 20px;
 }
 .socdesc {
-top: calc(50% - -3px);
-left: 4px;
+    top: calc(50% - -3px);
+    left: 4px;
 }
 .langwrap {
-width: 50px;
-margin: 3px 0 3px -21px;
-height: 30px;
-line-height: 32px;
+    width: 50px;
+    margin: 3px 0 3px -21px;
+    height: 30px;
+    line-height: 32px;
 }
 .langwrap img {
-margin: 4px 4px 0 0;
-height: 22px;
+    margin: 4px 4px 0 0;
+    height: 22px;
 }
 .calcwrap {
-width: 50px;
-margin: 3px 0 15px -20px;
-height: 30px;
-line-height: 32px;
+    width: 50px;
+    margin: 3px 0 15px -20px;
+    height: 30px;
+    line-height: 32px;
 }
 .calcwrap i {
-margin: -6px 6px 0;
-font-size: 18px;
+    margin: -6px 6px 0;
+    font-size: 18px;
 }
 .langblock {
-width: 30px;
-}
-.calcpage {
-width: 400px;
-font-size: 14px;
-}
-.contesttitle {
-font-size: 16px;
-}
-.calcpage h2 {
-font-size: 16px;
+    width: 30px;
 }
 }
 
@@ -1223,7 +1204,7 @@ padding:0
 }
 
 .cbp-af-header {
-background:#303030;
+background: linear-gradient(to bottom, #162447 0%, #303157 100%);
 box-shadow:1px 1px 20px #1f1f1f;
 height:inherit
 }
@@ -1397,10 +1378,5 @@ margin:-4px auto -1px
 
 .reviewlinkwrap .reviewlink:last-child {
 display: inline-flex
-}
-
-.calcpage {
-width: 300px;
-font-size: 14px;
 }
 }
